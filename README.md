@@ -50,19 +50,5 @@ Ensure the following dependencies are installed:
 
 Install them using:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
-## Usage
-Clone the repository:
-
-git clone https://github.com/your-username/yoga-pose-correction.git
-cd yoga-pose-correction
-
-Open the Jupyter Notebook:
-
-jupyter notebook Pose_correction.ipynb
-Run the notebook cells step by step to:
-
-Load the dataset.
-Train or test the model.
-Visualize pose correction feedback.
