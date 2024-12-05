@@ -50,5 +50,5 @@ Ensure the following dependencies are installed:
 
 Install them using:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
